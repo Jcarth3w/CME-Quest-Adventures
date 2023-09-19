@@ -11,7 +11,6 @@ In this groundbreaking initiative, participants are transported into a world whe
 - Justyn Fox
 - Jared Bowman
 - Michah Harker
-- 
 ## **Client Partner Information**
 
 ### *Company:*
