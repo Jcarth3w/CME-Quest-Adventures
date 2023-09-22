@@ -10,7 +10,7 @@ In this groundbreaking initiative, participants are transported into a world whe
 - Ethan Hooper
 - Justyn Fox
 - Jared Bowman
-- Michah Harker
+- Micah Harker
 ## **Client Partner Information**
 
 ### *Company:*
