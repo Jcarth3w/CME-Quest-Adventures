@@ -14,11 +14,12 @@ In this groundbreaking initiative, participants are transported into a world whe
 ## **Client Partner Information**
 
 ### *Company:*
+CME/CPE Providers
 
 
 ### *People:*
-- 
-- 
+- Kurt Snyder
+
 
 ## **Links**
 
