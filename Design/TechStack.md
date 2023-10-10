@@ -17,3 +17,8 @@ We chose this as an implementation for version control. Godot does not have buil
 - https://react.dev/
 
 We chose React as a way to implement the game we make in Godot into the web. React provides an easy way to implement outside sources into a web format, some of us have previous experience in React as well.
+
+## MySQL
+- https://www.mysql.com/
+
+We chose MySQL as a way to create a database for player usernames, passwords and best times, as well as best times for each scenario. MySQL provides an easy way to make a database, and makes retrieving data fairly simple.
