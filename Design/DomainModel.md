@@ -52,4 +52,5 @@ give you information, go in your inventory, or lead you to another room.
 
 
 
-![CME_QUEST_ADVENTURES_DOMAIN_MODEL](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/f5728d45-a126-4367-bda4-b772eeab95b9)
+
+![CME QUEST ADVENTURES DOMAIN MODEL](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/2aa091e2-a099-4762-8951-ea608b2413e1)
