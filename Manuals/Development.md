@@ -17,6 +17,10 @@
 	* Click 'import' and navigate to where the project was cloned.
 	* Go to 'project/project.godot' and double-click on it.
 		* It should import and open the project automatically.
+### Project File Structure
+* Assets (png files for 2D objects)
+* Objects (different types of interactables in the game)
+* Scenes (visuals needed for game that don't fall under objects)
 
 ### Debugging the Game
 
