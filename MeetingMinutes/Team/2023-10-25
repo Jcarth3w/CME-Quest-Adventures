@@ -1,0 +1,39 @@
+# Week of 2023-10/21 - 2023/10/28
+
+## Meeting Start Time 
+2023/10/25/6:00 PM
+
+## Meeting End Time
+2023/10/25/8:30 PM
+
+## Location/Medium
+In Person: Robert Bell Room 369
+
+## Present
+Justyn, Jack, Ethan, Micah, and Jared
+
+## Minutes Recorder
+Jack
+
+## Topics Discussed
+We wanted to clarify the overall structure of our game as well as make a plan for what we want at the end of this first iteration. We had a few ideas about how the inventory should function,
+and some ideas for the first few beginning puzzles. At this point we split up into groups, Jack, Justyn and Ethan drew a design for what the first room would look like, while Micah and Jared 
+started working to add functionality between clickable items and the inventory.
+
+## Things Clarified
+We've decided we'd like to have one room with at least two puzzles for the first iteration. The puzzles and other content will be based off a document that was provided to us by our client. 
+We clarified that within a scenario there will be 3-4 rooms each with a few puzzles. Some clues and puzzles in earlier rooms will help the player solve puzzles in later rooms.
+
+## Tasks Distributed 
+Justyn: Create the first mini game.
+
+Jack: Create the first mini game.
+
+Ethan: Draw some beginning placeholder assets. 
+
+Micah: Add functionality between clickable objects and inventory.
+
+Jared: Add functionality between clickable objects and inventory.
+
+Client provided document
+https://docs.google.com/document/d/1vb0wV9kVlbRiVEnXVYaREIZ7SlXZAxqiuU_ei6gOV7M/edit?usp=sharing
