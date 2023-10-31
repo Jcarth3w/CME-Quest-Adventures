@@ -24,14 +24,14 @@
     -	Business requirement: 1 
 
   -	UC4: A user can compare their performance by viewing a leaderboard of times for each scenario
-    -	This is a use case because it describes how the user will compare their performance. All scenarios will be timed, this is a way of measureing how efficiently an employee completes a scenario. 
+    -	This is a use case because it describes how the user will compare their performance. All scenarios will be timed, this is a way of measuring how efficiently an employee completes a scenario. 
     -	CME Staff
-    -	The user would complete a scenario and recive their final time, then they can view another leaderboard screen and compare their time, and depending on how well they do they can repeat the scenario.
+    -	The user would complete a scenario and receive their final time, then they can view another leaderboard screen and compare their time, and depending on how well they do they can repeat the scenario.
     -	Business requirement: 1 & 2
    
-  -	UC5: A manager can review perfomance of employees by viewing times 
+  -	UC5: A manager can review performance of employees by viewing times 
     -	This is a use case because it describes the goal of the manager. The manager wants to review performance, and this can be measured by how fast an employee completes a scenario.
     -	Manager
-    -	A manager can view all the completion times of their employees, then assign furthur training or rewards based on performance.
+    -	A manager can view all the completion times of their employees, then assign further training or rewards based on performance.
     -	Business requirement: 1 & 2
 
