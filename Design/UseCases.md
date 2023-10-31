@@ -1,36 +1,37 @@
 # Actors
 - CME Staff
-  -  During the meeting with our client, we were informed that most of the users that would be using this game would include employees and students under this CMW umbrella. This means that these actors would sharpen their knowledge and work through our game to test their ability and knowledge. 
-
+  -  During the meeting with our client, we were informed that most of the users that would be using this game would include employees and students under this CME umbrella. This means that these actors would sharpen their knowledge and work through our game to test their ability and knowledge.
+-  Managers
+  - A manager assigns specific scenarios to their employees for training purposes
 
 # Use Cases
-  -	UC1: Recover the missing promotional materials
-    -	As a part of the promotion team for CME organizations, events, and resources you must find the missing promotional materials. This is a use case because it represents a time-sensitive task that requires the user to recover the missing promotional materials in that time frame. In the words of agile approach, this allows the user to adapt to unexpected circumstances and ensure that the task is completed. 
+  -	UC1: An employee can play scenarios related to their role in the workplace
+    - This is a use case because it specifically describes the goal of one specific user, to play along with a scenario and learn or possibly re-learn from it. 
     -	CME Staff
-    -	Locate the missing promotional materials -> Discover the vanishing adult learning theories resources
+    -	An employee would recieve an assignment from their manager on which specific scenario to play, ideally one related to their role, they would then play through the scenario.
+    -	Business requirement: 1
+
+  -	UC2: An employee can test their knowledge by completing CME related puzzles within the escape room
+    -	This is a use case because it describes one goal of a user, which is to test their knowledge through a puzzle. This being what the client wants from the game, having the users challenged in a unique way.
+    -	CME Staff
+    -	A user plays through an escape room scenario, then encounters a puzzle, they then apply their knowledge to complete the puzzle. 
     -	Business requirement: 1 & 2
 
-  -	UC2: Recover the missing guidelines for compliance and accreditation
-    -	As your CME team specializes in compliance and accreditation, some crucial guidelines have gone missing. So, the user must recover these missing documents. This would be a use case because, it involves the recovery of essential compliance and accreditation guidelines. The user will have to rapidly address compliance risks and adapt to the conditions to recover the critical guidelines. 
-    -	CME Staff
-    -	Retrieve the misplaced compliance guidelines -> Identify the essential ACCME criteria -> Find the ACCME commendation criteria
-    -	Business requirement: 1 & 2
+  -	UC3: A manager can assign specific scenarios to their employees
+    -	This is a use case because it describes the goal of the manager. The manager can decide which employee needs training in specific areas. 
+    -	Manager
+    -	The manager would assign an employee a scenario, then the employee should play through the assigned scenario.
+    -	Business requirement: 1 
 
-  -	UC3: Recover the missing joint accreditation criteria documentation
-    -	Your expertise extends to the joint accreditation and education principles sector. Solve these puzzles and recover the missing joint accreditation criteria documentation at once! This would also be a use case in the means of recovering the joint accreditation criteria documentation is vital. The user must act in a quick response to the loss of critical documentation.  
+  -	UC4: A user can compare their performance by viewing a leaderboard of times for each scenario
+    -	This is a use case because it describes how the user will compare their performance. All scenarios will be timed, this is a way of measureing how efficiently an employee completes a scenario. 
     -	CME Staff
-    -	Recover the JA criteria for joint accreditation -> Solve the puzzle to unlock JA commendation criteria
-    -	Business requirement: 1 & 2
-
-  -	UC4: Applying adult learning principles to solve challenges
-    -	As your team specializes in adult learning principles, you will need to demonstrate their knowledge by applying these principles to solve challenges. This would be a use case because it will require the team to apply adult learning principles to ‘real-world’ puzzles. In the means of an agile approach, it will allow the users to demonstrate their expertise by addressing the challenges efficiently and showcase their knowledge. 
-    -	CME Staff
-    -	Identify the principles of Mayer’s in the context of adult learning -> Determine how Bloom’s Taxonomy enhances educational design
+    -	The user would complete a scenario and recive their final time, then they can view another leaderboard screen and compare their time, and depending on how well they do they can repeat the scenario.
     -	Business requirement: 1 & 2
    
-  -	UC5: Uncover the advantages of different learning formats
-    -	Your team excels in designing various learning formats and strategies. The user must showcase your expertise by uncovering the advantages of different learning formats. This is a use case because the user will uncover the advantages of different learning formats while showcasing their knowledge. This would enable the users to explore various formats and communicate the advantages of each format. This process would demonstrate their knowledge in designing effective learning strategies. 
-    -	CME Staff
-    -	Discover the advantages of various learning formats -> Demonstrate the advantages of different learning formats
+  -	UC5: A manager can review perfomance of employees by viewing times 
+    -	This is a use case because it describes the goal of the manager. The manager wants to review performance, and this can be measured by how fast an employee completes a scenario.
+    -	Manager
+    -	A manager can view all the completion times of their employees, then assign furthur training or rewards based on performance.
     -	Business requirement: 1 & 2
 
