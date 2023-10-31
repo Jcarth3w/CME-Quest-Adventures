@@ -1,0 +1,25 @@
+# Week of 2023-10/21 - 2023/11/04
+
+## Meeting Start Time
+2023/10/31/2:30 PM
+
+## Meeting End Time
+
+## Location/Medium
+Online: Discord
+
+## Present
+Jack, Ethan, Micah, and Jared
+
+## Minutes Recorder
+Ethan
+
+## Topic Discussed
+To start out the meeting we worked on updating design documents that had points taken off (Buisness Requirements, User Cases). Other than that we went over the remaining features needed to complete iteration one. 
+This includes the remaining minigames in the puzzle and the state manager to track progress within the puzzle. Once that's completed we can start structuring the room and the iteration should be technically complete.
+
+## Things Clarified
+The plan for the following week is to start working on designing the room level for iteration one in godot. Hopefully by the following Wednesday we should have a mostly if not entirely completed project.
+
+## Tasks Distributed
+Tasks will be distributed tomorrow at our next meeting.
