@@ -22,6 +22,18 @@
 * Objects (different types of interactables in the game)
 * Scenes (visuals needed for game that don't fall under objects)
 
+### Initialize Local Database
+* In the main project repository, open up bash/terminal
+* Execute `docker compose up`
+* Launch your browser and go to `http://localhost:8000/`
+	* If it fails, restart docker
+		* Use `CTRL+C` to shutdown server
+		* In Docker Desktop, click `STOP`
+		* Close window
+	* If database is empty, run `templateSql.sql` in an SQL IDE
+		* In MySQL Community, login to server using credentials, and open the sql file to run/execute script
+			* You can find your credentials in `docker-compose.yml`
+
 ### Debugging the Game
 
 * Open project within Godot.
