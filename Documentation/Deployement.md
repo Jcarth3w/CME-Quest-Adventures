@@ -29,4 +29,14 @@
   * If experiencing any difficulties with the game occur:
     * Press 'F8' to exit the game and view the output error in the Godot terminal
     * Handle error accordingly
- 
+
+ ## 5. Testing
+  * The testing for this project will be all handled within the plugin 'GUT' inside of the game engine.
+    * On start-up of the game, located at the bottom of the terminal window GUT will be located.
+    * Once you clicked into GUT, you can navigate to the test folders located in the FileSystem tree.
+    * When you get to this point, you can choose any file if you want to test a singular file, or just run all the tests by clicking 'Run All'. If you choose to run a singular file, you can click the play button located in the 'Current:' prompt. You can also run a singular test within the chosen file too, by clicking onto the test function within the file and clicking that option in the 'Current: -> '.
+    * You can also run all tests through the command line with this command below.
+    * godot --headless -d -s --path project addons/gut/gut_cmdln.gd -gdir=res://tests/ -ginclude_subdirs=true -gprefix="" -gsuffix="_test.gd" -gexit
+      * Notice, rename 'godot' to what you have Godot saved as the useable on your machine. Then you must specify this project path after '--path "Your Path"'.
+    * After this is all complete, you should be able to start/stop/troubleshoot the project with testing purposes.
+      
