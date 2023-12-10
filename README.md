@@ -29,5 +29,4 @@ CME/CPE Providers
 
 ## **Code Repositories**
 
-- Code Repository
-  - https://github.com/Jcarth3w/CME-Quest-Adventure.git
+- https://github.com/Jcarth3w/CME-Quest-Adventure/releases/tag/2.0.0
