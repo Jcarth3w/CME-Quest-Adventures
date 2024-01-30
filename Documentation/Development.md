@@ -1,5 +1,18 @@
 # Development Environment Manual
 
+## Tech aspects & Rundown
+
+This project runs using Godot Engine 4 and includes a web server backend using Docker, PHP, and MySQL
+
+In order to replicate this development environment you will need Godot Engine 4, Docker, and an IDE (**VS CODE RECOMMENDED**)
+
+Godot does most of the heavy lifting, it runs the main game and is the main IDE we write code in
+
+Docker helps us run backend code and our web server, we edit these files using an IDE of our choice
+
+This document will guide you in installing and running these technologies as needed. This document also gives an in-depth look at the file structure of the project and will explain how to test/debug the code.
+
+
 ## Frontend Installation (Godot Engine)
 
 ### Install Prerequisites
@@ -15,6 +28,12 @@
     ![downloaded](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/432d43b3-f4ba-4bb1-858b-f53b21481182)
 
 	* Running the resulting executable will launch Godot_v4.1.1-stable
+
+* Install Docker
+	* Download Docker [here](https://docs.docker.com/engine/install/)
+   
+
+ 	* Select the correct version for your operating system
 
 
 ### Clone Repositories
