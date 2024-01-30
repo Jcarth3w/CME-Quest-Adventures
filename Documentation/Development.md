@@ -4,7 +4,7 @@
 
 This project runs using Godot Engine 4 and includes a web server backend using Docker, PHP, and MySQL
 
-In order to replicate this development environment you will need Godot Engine 4, Docker, and an IDE (**VS CODE RECOMMENDED**)
+In order to replicate this development environment you will need Godot Engine 4, Docker, an SQL IDE (**SQL WORKBENCH RECOMENDED**) and an IDE (**VS CODE RECOMMENDED**)
 
 Godot does most of the heavy lifting, it runs the main game and is the main IDE we write code in
 
@@ -31,9 +31,18 @@ This document will guide you in installing and running these technologies as nee
 
 * Install Docker
 	* Download Docker [here](https://docs.docker.com/engine/install/)
+ 	* Select the correct version for your operating system 
    
+![dock](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/316def0a-bc49-47eb-a523-3fa2144224c9)
 
- 	* Select the correct version for your operating system
+* Click the download button to download the Docker installer
+ 
+![yuh](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/2a8fd99d-a2bf-4364-a42c-455fd0f862e0)
+
+* Run the installer and follow it's instructions to open Docker
+![install](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/7ffead15-e208-4e85-8fe0-9c7ec3a9c526)
+
+
 
 
 ### Clone Repositories
@@ -54,8 +63,19 @@ This document will guide you in installing and running these technologies as nee
  
 ### Initialize Local Database
 * In the main project repository, open up bash/terminal
+* Make sure Docker is running
+![shell+docker](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/632dc41b-838d-45f6-90a1-2b8a5a08c167)
+
+
 * Execute `docker compose up`
+* The result of this command should look like this
+* This command creates a Docker container where the web server and data base run
+  ![running](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/bfd99b6d-92d0-4e6d-a472-9b88b0901efc)
+
+  
 * Launch your browser and go to `http://localhost:8000/`
+  ![loacalhost](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/a2757766-3062-43cd-9015-7735de5eb245)
+
 	* If it fails, restart docker
 		* Use `CTRL+C` to shutdown server
 		* In Docker Desktop, click `STOP`
@@ -67,15 +87,39 @@ This document will guide you in installing and running these technologies as nee
 
     
 ### Project File Structure
+#### Important files
+* docker-compose.yml/Dockerfile
+	* These files describe the rules for creating the Docker container
+*  templateSql.sql
+  	* This file is the template for creating the database which Docker takes care of
+* install_hooks.sh
+  	* For installing the gdlint hook
+
+#### Godot (project folder)
+![files](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/3d2ed380-0536-45f5-8442-51d39df0f796)
+
 * Addons (GUT testing framework)
 * Assets (png files for 2D objects)
-* Objects (different types of interactables in the game)
+* Clickables (different types of interactables in the game)
+* Components (gd scripts for sending HTTP requests to the web server)
 * Scenes (visuals needed for game that don't fall under objects)
 * Tests (test scripts)
+
+#### Webserver
+* Contains all php files for sending and recieving data
 
 
 ### Debugging the Game
 
-* Open project within Godot.
-	* Press 'F6' or the play button on the top-right.
-	* Press 'F5' to test a currently selected scene.
+* Open project within Godot
+
+  ![play](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/f8d80bee-439f-4756-aadf-dfad3d62d022)
+
+	* Press 'F6' or the play button on the top-right
+	* Press 'F5' to test a currently selected scene
+* Play through the game
+	* If you run into an error the game will stop running and print an error via the output console in Godot
+   	![debug](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/29b11144-4ce9-401d-aec5-4b0fdb15e978)
+
+   * Otherwise, you may see unintended results within the game without a crash
+
