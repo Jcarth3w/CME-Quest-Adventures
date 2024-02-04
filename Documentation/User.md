@@ -143,28 +143,6 @@ whenever you need to
 
 
 
-### Testing the Game
-
-* The testing of this software will be handled through plug-in GUT. This is included with the software, so no further downloads will be needed
-
-![UserUpdatePic28](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/74a7dc5c-358d-4450-b282-95946f941ec6)
-
-![UserUpdatePic19](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/fe56bc6d-f4cd-4a8e-abb4-f74a885b3726)
-
-* After clicking GUT in the bottom of your task bar, you can navigate to the test files located in the file system tree
-
-![UserUpdatePic29](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/d13b2b0c-b407-40a5-a77a-d32330993ada)
-
-* Clicking on a file will allow you to individually test functions by just clicking on them in the class. Or you can just run all with the corresponding button
-
-![UserUpdatePic20](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/20060216-2b58-441e-ae17-99670a76ba13)
-
-* This will bring you to the test output scene. Where it will display a result of all the tests that ran.
-
-![UserUpdatePic21](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/a7e42061-db0f-4412-bc08-802cc6953e30)
-
-
-
 ## Exiting the Game
 
 * Click the wrench icon in the top right of the screen
