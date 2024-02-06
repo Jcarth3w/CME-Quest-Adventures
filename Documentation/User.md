@@ -8,6 +8,11 @@
 ![Godot Exe](<Screenshot 2023-11-12 194311.png>)
 
 ## Playing the Game
+* Once everything is downloaded and ready to run, click start game to begin!
+
+![UserUpdatePic30](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/9bc0b562-7e75-470e-a90e-9a685f0b5a8f)
+
+
 
 * You will be given a scenario/objective to accomplish.
 	* Find objects in the room to click on.
@@ -97,49 +102,48 @@
 
 * Upon entering Room 3, you will see a laptop on the desk
 
-![UserUpdatePic14](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/36764bcd-0061-411b-b622-62725cf5106c)
+![UserUpdatePic37](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/4ee2f333-31a8-4373-895e-61a8cdac22f4)
 
 * Clicking this will bring you to the log in screen to sign into the laptop. And continue
 with the game
 
-![UserUpdatePic13](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/aecce089-4c33-498d-ac45-a4082c72f31c)
+![UserUpdatePic31](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/5be3f677-7a4a-42a7-a09a-09e6eedc4ede)
 
 * Hints will be located throughout the room for the correct information needed to log into
 the computer
 	* After finding the right credentials, you will be able to log into the computer
 
-![UserUpdatePic15](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/3e06751f-c98d-49ab-8f70-b7c256009f5c)
+![UserUpdatePic38](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/f8ff98a8-894d-444f-8056-07f8d2daf62f)
 
 * Continuing through, you will be able to print the missing document
 
-![UserUpdatePic17](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/06986109-12eb-4f3b-93af-a503f1e4cc87)
+![UserUpdatePic32](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/d3767b8f-4dbb-4292-8d8b-245443382a5b)
 
 * At anytime you need to leave this game, click the red button in the top right to leave
 whenever you need to
 
-![UserUpdatePic16](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/568e463d-7c9c-4fb3-b54c-25a104c9d02e)
+![UserUpdatePic39](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/4a3c5958-8bec-496d-97cc-1d4c1aa8e6e0)
 
 
- 
+
 ### File Game
 
-* You will be presented with a folder in the center with a previous and next button at either side
+* You will be presented with folders in the left corner, with a previous and next button at either side
 
-![UserUpdatePic25](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/520cdfa3-2ac1-4fe9-8ee8-ded84e10fddc)
-
+![UserUpdatePic323](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/b5b76b9b-5d1a-4be7-a4c9-4ac4ecaacbdd)
 
 * Use the buttons to cycle through all of the folders
 	* Once you find the folder marked promostion click on it to collect your item!
 
-![UserUpdatePic26](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/0efa4573-6670-447e-b7ad-a4dfb7117ee5)
+![UserUpdatePic34](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/18ad4880-dcae-490d-92cd-8c5202cfa325)
 
 * After selecting the promo file, you will be brought to a file organizer screen. You will have to place the files in alphabetical order
 
-![UserUpdatePic23](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/f33a27a6-4553-4e35-9d0a-0b93868f1066)
+![UserUpdatePic35](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/c9d4278b-e1f2-463c-8741-8176a0f8720b)
 
 * Finally, after putting all the files in the correct order; you will complete scenario one!
 
-![UserUpdatePic27](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/fbafe11e-bdc4-47b9-99bf-6c02a198d212)
+![UserUpdatePic36](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/6c935604-99bd-4ef7-a2c0-5c05aca5aa00)
 
 
 
