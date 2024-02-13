@@ -123,3 +123,30 @@ This document will guide you in installing and running these technologies as nee
 
    * Otherwise, you may see unintended results within the game without a crash
 
+
+### GDLint Integration
+If you are wanting a tool that will guide you to cleaner code, follow these steps:
+* Install [Python](https://www.python.org/downloads/) (if not done so already)
+![download_python](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/11251881/75375586-24ea-4127-87b1-49844ee4bb45)
+
+	* If there is a terminal process running, restart terminal.
+* In terminal, run `pip install gdtoolkit==4.*` or `pip3 install gdtoolkit==4.*`
+
+This will ensure that you have the necessary commands to run for the linter to work.
+
+* Open the terminal within the project folder.
+* Run `gdlint .`
+	* Usage: `gdlint [target source]`
+ ![Running_GDLint](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/11251881/936dbe98-b57e-4621-853f-8d12c60a591b)
+
+This will check to see if the code within the folder is following a specific format. If there are any violations of the coding format, the command line will tell you what line needs work.
+
+An alternative process is to:
+* Go to the project folder.
+* Double-click `install_hooks.sh`
+![Install_hooks_location](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/11251881/2c993aeb-9cdd-4cd3-b1dc-6debb734df08)
+
+	* This process includes the installation of python and gdlint.
+	* This will also prevent any commits that violate the code structure of the project.
+ 
+ ![Running_Hooks](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/11251881/290474c0-e904-41eb-90bf-ee8913ec37bb)
