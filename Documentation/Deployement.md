@@ -14,10 +14,13 @@
     * Once prompted to open a project select the import option on the right
     * locate the extracted folder and select the folder labeled 'project'
 
+* In the next iteration the user will be able to play the game via a webpage and will NOT need to install Godot
+
 ## 2. Server
 
 * There is a small web server attached to the game for managing database operations
 	* This can be run locally at any time or can be hosted through a service such as Google Cloud
+* We're currently finding a way to host the server so the game can be compatible with a website, and won't have to be run locally
    
 ## 3. Playing the game
   * Open project within Godot.
@@ -27,8 +30,9 @@
    
 ## 4. Vulnerabilities 
   * The game does not perform well under heavy input. specifically in mini-games.
-  * Rapid clicks can cause games to potentially break.
   * Frequent pausing and unpausing of the game can also result in unwanted errors.
+  * Some clickables may have obscure click areas due to textures
+  * Leaderboard only works if the server is running locally
 
 ## 5. Troubleshooting
   * If experiencing any difficulties with the game occur:
@@ -56,7 +60,7 @@
  	<img width="540" alt="Screen Shot 2023-12-08 at 7 38 14 PM" src="https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/c87a14ab-6724-4e12-8799-6e2f79b5f219">
 
 
-
+    * To see a coverage report for tests, in BASH in the repository folder, run the command ./hooks/godot_coverage_hack.sh --verbose
     * You can also run all tests through the command line with this command below.
     * godot --headless -d -s --path project addons/gut/gut_cmdln.gd -gdir=res://tests/ -ginclude_subdirs=true -gprefix="" -gsuffix="_test.gd" -gexit
       * Notice, rename 'godot' to what you have Godot saved as the useable on your machine. Then you must specify this project path after '--path "Your Path"'.
