@@ -8,9 +8,25 @@
 ![Godot Exe](<Screenshot 2023-11-12 194311.png>)
 
 ## Playing the Game
-* Once everything is downloaded and ready to run, click start game to begin!
+* Once everything is downloaded and ready to run, you will be brought to the main menu to begin the game!
 
-![UserUpdatePic30](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/9bc0b562-7e75-470e-a90e-9a685f0b5a8f)
+![Iteration4_User_1](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/985673e0-4574-47e3-9f38-1a4e1995c382)
+
+* You can now check through previous games by clicking the leaderboard button.
+
+![Iteration4_User_2](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/47e73585-4618-41da-84d6-782699952d0d)
+
+* By clicking through the menu, you can choose between scenario one or scenario two.
+
+![Iteration4_User_3](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/43c52a0d-f38f-4a7b-a0ca-6f21b4e9e081)
+
+![Iteration4_User_4](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/1575fd1f-4bdb-4905-8d85-4307c7409ea2)
+
+* Once you select a scenario, you will be prompted to enter in a username.
+
+![Iteration4_User_5](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/e87ecb6a-646d-463a-b4ea-e09a4526932a)
+
+
 
 
 
@@ -144,6 +160,36 @@ whenever you need to
 * Finally, after putting all the files in the correct order; you will complete scenario one!
 
 ![UserUpdatePic36](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/6c935604-99bd-4ef7-a2c0-5c05aca5aa00)
+
+
+
+### Clip Board Game
+
+* In this game you will see the new drag and drop feature. By using this, you will have to drag the correct word to
+match the corresponding definition.
+
+![Iteration4_User_10](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/a19a012b-d3d9-4ada-a22d-9529f0dbfbc6)
+
+* Here is the game in action...
+
+![Iteration4_User_7](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/92acf876-d521-49dd-af6b-3ef41fc23b97)
+
+
+
+### Bulletin Board Game
+
+* By clicking into the bulletin board, you will get access to the final game of this room.
+
+![Iteration4_User_11](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/3dba0c85-5821-492f-b28e-0832a50c1742)
+
+* In this game you will have to spell out the word "compliance" to complete this game.
+
+![Iteration4_User_8](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/d99ec7b7-bb1a-46ed-a9bd-a8c0142eda57)
+
+* After completing this final game, you will be brought to the finish scene for this scenario!
+
+![Iteration4_User_9](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/c4777c3e-c872-4e8b-9244-56ce7ec84469)
+
 
 
 
