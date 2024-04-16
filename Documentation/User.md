@@ -10,21 +10,26 @@
 ## Playing the Game
 * Once everything is downloaded and ready to run, you will be brought to the main menu to begin the game!
 
-![Iteration4_User_1](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/985673e0-4574-47e3-9f38-1a4e1995c382)
+![User1](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/6570a67b-001b-4b3d-9e24-9f6386831e72)
+
 
 * You can now check through previous games by clicking the leaderboard button.
 
-![Iteration4_User_2](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/47e73585-4618-41da-84d6-782699952d0d)
+![User30](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/71a80ef6-0c32-4420-bce5-690481d0c7e3)
+
 
 * By clicking through the menu, you can choose between scenario one or scenario two.
 
-![Iteration4_User_3](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/43c52a0d-f38f-4a7b-a0ca-6f21b4e9e081)
+![User3](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/0dc259b1-ea78-4c70-b268-ac051b805f44)
 
-![Iteration4_User_4](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/1575fd1f-4bdb-4905-8d85-4307c7409ea2)
+
+![User2](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/9128ad97-043a-4816-ab5c-5949f4fd3d8e)
+
 
 * Once you select a scenario, you will be prompted to enter in a username.
 
-![Iteration4_User_5](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/e87ecb6a-646d-463a-b4ea-e09a4526932a)
+![User4](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/4fb3edf2-1d8b-44f3-8999-fd6624d3aeb4)
+
 
 
 
@@ -32,20 +37,24 @@
 
 * You will be given a scenario/objective to accomplish.
 	* Find objects in the room to click on.
-	![UserUpdatePic1](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/16537a0a-b93c-4f13-9ddb-3dc31776d97c)
+	![User5](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/14b8ebd5-3c12-40d2-9f9d-82e2fa5487b5)
+
  
 		* Some are collectiable, some take you to minigames.
-![UserUpdatePic2](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/fa39b143-bccb-4ca8-a67b-f5bccc6bc8b8)
+![User6](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/fc1fe15e-0594-40df-9f87-203763a7d1fe)
+
 
 
 	* The items in your inventory can be used to satisfy your goal.
 
 * To traverse between rooms use the map button in the top right
-	* Select a key in the following menu select a room (progression goes from left to right)
+	* Select a door in the following menu select a room (progression goes from left to right)
   
-	![Map](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/0218a429-f86e-4e49-ab66-48b672302ef1)
+	![User24](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/1f8b4536-9b8b-44de-ad12-57a6c7da1604)
 
-  ![UserUpdatePic3](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/a4b359d2-2f39-4bed-9f03-89c8c37d5fd9)
+
+  ![User9](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/2481153c-5f1b-4929-a5fa-496b7c177e26)
+
 
 
 
@@ -54,45 +63,19 @@
 
 ### Matching Game
 
-* You will be presented with a grid of papers
+* You will be presented with a grid of papers, you will need to match the corresponding pictures with their matching word!
 
-  ![UserUpdatePic4](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/26738731-08c7-4801-84b7-205286e2b6d8)
+  ![User7](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/25d82519-16e4-4d9c-82d4-ee345457e312)
 
-
-* Click on a piece of paper to flip it over and reveal an image
-
-  ![UserUpdatePic5](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/15981abd-dc68-4b0f-97fb-1acc8848fff3)
-
-
-* Keep clicking on papers to find matching pairs (matching pairs stay revealed)
-
-![UserUpdatePic6](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/35c9cf26-d6b1-43a0-9156-81f96362d230)
-
-
-* Find the matching books to win the game and collect your item!
-
-  ![UserUpdatePic7](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/38e1bfec-d068-4e2c-a2c9-0a7f24b5d312)
 
 
 
 ### Shred Game
 
-* You will be presented with a clip board and shreds of paper with fragments of words on them
+* You will be presented with a clip board and shreds of paper with fragments of words on them. Click the pieces of paper until you spell out the word 'Registration' and finish this game.
 
-![UserUpdatePic2](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/ed4198ed-bb98-40f5-ba4e-799f55c86bcb)
+![User6](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/b46c99af-72f4-4b86-bbdf-ab5163b51c25)
 
-
-
-* Click on a shred of paper to add it to the clip board
-
-![UserUpdatePic8](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/a2c4bb10-04a6-4b43-b3d5-4a0d65f409bf)
-
-
-* Add 3 shreds to the clip board and try to spell a word
-	* Click the check button in the bottom left to check if your cobination is right (there is only one correct combination)
- 	* IF your combination is right, you win the game and you collect your item!
-
-![UserUpdatePic9](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/dce156d9-41e9-42ef-90a1-120d1ac19e40)
 
 
 
@@ -100,30 +83,30 @@
 
 * You will be presented with a crossword and a text box
 
-  ![UserUpdatePic10](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/fcb25fc3-ebae-4a3b-b134-7145b68d3450)
+  ![User8](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/cd5b2f3c-ae53-418e-b052-6e7ab008ddfe)
+
 
 * Look for clues around the rooms as to what words fill in the spaces
   	* When you have an answer, type it into the text box and hit the button to the right
 	* If your answer is right you will see it appear in the cross word
 
-![UserUpdatePic11](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/68cdeb6d-0190-4b9f-9584-b9435bbb74ba)
+![User8-1](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/2b6c06aa-5c89-4748-9eb5-f761b89f53a8)
 
-* If you need to leave and find more clues, use the red button in the top right to exit the game
 
-![UserUpdatePic12](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/e789dfdb-ddb1-4e8e-ba15-9a1298ab9181)
 
-   
 
 ### Laptop Game
 
 * Upon entering Room 3, you will see a laptop on the desk
 
-![UserUpdatePic37](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/4ee2f333-31a8-4373-895e-61a8cdac22f4)
+![User10](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/0728891d-2a0b-4c4a-9871-054199ad294e)
+
 
 * Clicking this will bring you to the log in screen to sign into the laptop. And continue
 with the game
 
-![UserUpdatePic31](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/5be3f677-7a4a-42a7-a09a-09e6eedc4ede)
+![User11](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/581063f6-5a68-48d0-9ecc-1e62f800b633)
+
 
 * Hints will be located throughout the room for the correct information needed to log into
 the computer
@@ -133,33 +116,29 @@ the computer
 
 * Continuing through, you will be able to print the missing document
 
-![UserUpdatePic32](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/d3767b8f-4dbb-4292-8d8b-245443382a5b)
+![User12](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/17898d16-c910-4aaa-b29b-fc0544760901)
 
-* At anytime you need to leave this game, click the red button in the top right to leave
-whenever you need to
-
-![UserUpdatePic39](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/4a3c5958-8bec-496d-97cc-1d4c1aa8e6e0)
 
 
 
 ### File Game
 
 * You will be presented with folders in the left corner, with a previous and next button at either side
+	* Use the buttons to cycle through all of the folders
+		* Once you find the folder marked promostion click on it to collect your item!
 
-![UserUpdatePic323](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/b5b76b9b-5d1a-4be7-a4c9-4ac4ecaacbdd)
+![User13](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/7fb50648-b77b-45ff-8742-6226c8ef04d2)
 
-* Use the buttons to cycle through all of the folders
-	* Once you find the folder marked promostion click on it to collect your item!
-
-![UserUpdatePic34](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/18ad4880-dcae-490d-92cd-8c5202cfa325)
 
 * After selecting the promo file, you will be brought to a file organizer screen. You will have to place the files in alphabetical order
 
-![UserUpdatePic35](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/c9d4278b-e1f2-463c-8741-8176a0f8720b)
+![User14](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/7b683d27-9a69-4a17-b07e-361e2d63ad88)
+
 
 * Finally, after putting all the files in the correct order; you will complete scenario one!
 
-![UserUpdatePic36](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/6c935604-99bd-4ef7-a2c0-5c05aca5aa00)
+![User15](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/33bae8a4-b4fa-49ab-b7a1-b298c31f7cae)
+
 
 
 
@@ -168,27 +147,66 @@ whenever you need to
 * In this game you will see the new drag and drop feature. By using this, you will have to drag the correct word to
 match the corresponding definition.
 
-![Iteration4_User_10](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/a19a012b-d3d9-4ada-a22d-9529f0dbfbc6)
+![User17](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/6189fb1c-6c96-4745-b85a-2e88a5a260b6)
+
 
 * Here is the game in action...
 
-![Iteration4_User_7](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/92acf876-d521-49dd-af6b-3ef41fc23b97)
+![User18](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/ee9b79e2-1bb8-4623-ad82-961ab83f24c5)
 
 
 
-### Bulletin Board Game
 
-* By clicking into the bulletin board, you will get access to the final game of this room.
+### Bloom's Taxonomy Game
 
-![Iteration4_User_11](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/3dba0c85-5821-492f-b28e-0832a50c1742)
+* In the second room of scenario two, you will see the next game.
 
-* In this game you will have to spell out the word "compliance" to complete this game.
+  ![User25](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/d9905310-40ea-48d9-8030-1e1ded436cf9)
 
-![Iteration4_User_8](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/d99ec7b7-bb1a-46ed-a9bd-a8c0142eda57)
+  * By dragging the black triangle onto the uncomplete pyramid, you can enter this game!
 
-* After completing this final game, you will be brought to the finish scene for this scenario!
+    ![User19](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/ac6090f9-b138-4425-bddf-0f717ff7f500)
 
-![Iteration4_User_9](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/c4777c3e-c872-4e8b-9244-56ce7ec84469)
+  * Solve it by dragging the words onto the colored sections of the pyramid and click the blue button to check your answer!
+
+
+
+
+### Sentence Builder Laptop Game
+
+* While still in the second room of scenario two, you can click into the monitor to get into the last game of the scenario!
+
+  ![User26](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/638acf2e-7ee3-4228-9545-df18ecf286b3)
+
+  * In the laptop screen, you will click into the bottom doc on the mock screen to bring up the sentence builder.
+ 
+  ![User20](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/3cd96554-de6c-4833-9849-9814d6116e36)
+
+  * You can also interact with the other files to help you solve the sentences!
+
+  ![User21](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/d789659d-fa5c-4988-9211-afc657d45501)
+
+
+
+
+### Combo Unlock
+
+* To finish the scenario, you will need to click into the number pad that is located on the wall.
+
+  ![User28](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/83a98378-0ef0-4515-83c3-5a004a620246)
+
+* Here you will input the code to finish the scenario.
+
+  ![User31](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/ac1ee46c-e786-4340-a26f-62e5dec769b3)
+
+
+  * Located in the file cabinet in the room, is clues to get the code.
+
+    ![User29](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/3eda1dfd-d613-4696-ace4-172c235bf173)
+
+* After putting in the correct code, you will finish this scenario!
+
+  ![User23](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/ef4b850d-8e15-453a-bbb9-66b3440ec9ee)
 
 
 
@@ -197,8 +215,10 @@ match the corresponding definition.
 
 * Click the wrench icon in the top right of the screen
   
-![Menu](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/40f6a539-5f2c-45a3-9f8f-eed22a7eeb18)
+![User24](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/a45bdb22-1e82-40bd-9b51-2e7d513c815b)
+
 
 * Click on quit to close the application.
 
-![Quit](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/5ccdd16e-fd1f-4466-9ad4-aed14098d3f6)
+![User27](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/112365149/47a37ccc-d5f0-4e68-b2c9-3acc5fdbddf7)
+
