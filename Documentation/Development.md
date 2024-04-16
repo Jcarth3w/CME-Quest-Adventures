@@ -2,13 +2,13 @@
 
 ## Tech aspects & Rundown
 
-This project runs using Godot Engine 4 and includes a web server backend using Docker, PHP, and MySQL
+This project runs using Godot Engine 4 and includes a database using Firebase
 
-In order to replicate this development environment you will need Godot Engine 4, Docker, an SQL IDE (**SQL WORKBENCH RECOMENDED**) and an IDE (**VS CODE RECOMMENDED**)
+In order to replicate this development environment you will need Godot Engine 4 and access to the firestore in Firebase
 
 Godot does most of the heavy lifting, it runs the main game and is the main IDE we write code in
 
-Docker helps us run backend code and our web server, we edit these files using an IDE of our choice
+Firebase handles all of the data and can be accessed using any browser 
 
 This document will guide you in installing and running these technologies as needed. This document also gives an in-depth look at the file structure of the project and will explain how to test/debug the code.
 
@@ -29,20 +29,6 @@ This document will guide you in installing and running these technologies as nee
 
 	* Running the resulting executable will launch Godot_v4.1.1-stable
 
-* Install Docker
-	* Download Docker [here](https://docs.docker.com/engine/install/)
- 	* Select the correct version for your operating system 
-   
-![dock](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/316def0a-bc49-47eb-a523-3fa2144224c9)
-
-* Click the download button to download the Docker installer
- 
-![yuh](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/2a8fd99d-a2bf-4364-a42c-455fd0f862e0)
-
-* Run the installer and follow it's instructions to open Docker
-![install](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/7ffead15-e208-4e85-8fe0-9c7ec3a9c526)
-
-
 
 
 ### Clone Repositories
@@ -61,52 +47,34 @@ This document will guide you in installing and running these technologies as nee
     ![Selectfile](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/4c8db880-aabf-47c1-b996-dd41304a382c)
 
  
-### Initialize Local Database
-* In the main project repository, open up bash/terminal
-* Make sure Docker is running
-![shell+docker](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/632dc41b-838d-45f6-90a1-2b8a5a08c167)
+### Accessing The Database
 
+* Visit Firebase via any browser at this [url](https://firebase.google.com/?gad_source=1&gclid=CjwKCAjwoPOwBhAeEiwAJuXRh_Uv2oSatBiWhShDRH4jPds3rSuZyKPAOD8-rgtQ0B8W4P1zTjzzVxoCylEQAvD_BwE&gclsrc=aw.ds)
+<img width="1424" alt="Screen Shot 2024-04-15 at 9 09 40 PM" src="https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/6a192e32-279e-4111-a26a-782fa92d5bcb">
 
-* Execute `docker compose up`
-* The result of this command should look like this
-* This command creates a Docker container where the web server and data base run
-  ![running](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/bfd99b6d-92d0-4e6d-a472-9b88b0901efc)
+* Click the "Get Started" button to view databases.
+	* You should see a database labeled "CME-Quest-Adventures"
+<img width="1417" alt="Screen Shot 2024-04-15 at 9 19 45 PM" src="https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/0626ff1e-6950-4ba7-b280-2c795647c084">
+	* If you don't see this then you have not been added to the collection and must contact whoever is in charge or Jared Bowman @, the owner of the collection to add your email.
 
-  
-* Launch your browser and go to `http://localhost:8000/`
-  ![loacalhost](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/a2757766-3062-43cd-9015-7735de5eb245)
-
-	* If it fails, restart docker
-		* Use `CTRL+C` to shutdown server
-		* In Docker Desktop, click `STOP`
-		* Close window
-	* If database is empty, run `templateSql.sql` in an SQL IDE
-		* In MySQL Community, login to server using credentials, and open the sql file to run/execute script
-			* You can find your credentials in `docker-compose.yml`
-
+ * Once added you can view all data and use other tools that Firebase has to offer
+<img width="1411" alt="Screen Shot 2024-04-15 at 9 26 16 PM" src="https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/04c8e88e-930e-44bf-9242-deef07998752">
 
     
 ### Project File Structure
 #### Important files
-* docker-compose.yml/Dockerfile
-	* These files describe the rules for creating the Docker container
-*  templateSql.sql
-  	* This file is the template for creating the database which Docker takes care of
 * install_hooks.sh
   	* For installing the gdlint hook
 
 #### Godot (project folder)
 ![files](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/3d2ed380-0536-45f5-8442-51d39df0f796)
 
-* Addons (GUT testing framework)
+* Addons (GUT testing framework/Firebase functionality)
 * Assets (png files for 2D objects)
 * Clickables (different types of interactables in the game)
-* Components (gd scripts for sending HTTP requests to the web server)
+* Components (gd scripts for sending HTTP requests to the Firebase
 * Scenes (visuals needed for game that don't fall under objects)
 * Tests (test scripts)
-
-#### Webserver
-* Contains all php files for sending and recieving data
 
 
 ### Debugging the Game
@@ -150,3 +118,34 @@ An alternative process is to:
 	* This will also prevent any commits that violate the code structure of the project.
  
  ![Running_Hooks](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/11251881/290474c0-e904-41eb-90bf-ee8913ec37bb)
+
+
+ ### How To Test
+
+ * There are two ways to test this project
+ 	1. Running the game itself
+  	2. Using GUT
+  
+## Testing by running
+* To test by running the game, simply click the play button in the top right of Godot 
+<img width="235" alt="Screen Shot 2024-04-15 at 9 34 59 PM" src="https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/ac4d7d9f-95a9-4cb3-86af-4e02ec07ab0c">
+
+* To interpret this type of test, look for what you are trying to add/modify about the game.
+	* Work within scenes to isolate specific things
+ 	* If something isn't behaving the way it should, take a look at the code
+
+
+## Testing using GUT
+<img width="972" alt="Screen Shot 2024-04-15 at 9 39 13 PM" src="https://github.com/Jcarth3w/CME-Quest-Adventures/assets/89651665/5f7fc525-fdda-4cbd-b936-08c4fcea0b98">
+
+* Use the GUT tab at the bottom of the Godot IDE
+	* Here you can chose to run individual test files or all of them
+
+* Ensure the configuration runs all scripts with the prefix "test_"  and suffix ".gd" or else the tests will not run
+ 	* Click on a test function in a script to select the individual test for running. 
+
+* Results of tests should either pass or fail depending on their expected outcome
+	*  Remember what your looking for while testing
+ 	*  Ensure you understand what exactly you are testing  
+
+
