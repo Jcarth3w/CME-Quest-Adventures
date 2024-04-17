@@ -1,19 +1,30 @@
-##People We Showed The Project To!
-Marcia Freeman
+## People We Showed The Project To!
+
+### Marcia Freeman
+
 ![marcia](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/acc8e06b-ddd3-460b-b05b-a67394646570)
-Olivia Glaeser
+
+### Olivia Glaeser
+
 ![olivia](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/28958408-c06e-46c5-b16a-23666b0bd433)
-Buffi
+
+### Buffi
+
 ![buffi](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/7cd2d3ab-772d-471c-81fb-f63c2b1865ba)
-Jadi Miller
+
+### Jadi Miller
+
 ![IMG_4503](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/ef98913c-ffec-46ef-82d7-4cf8fe8e806a)
-Jeffery Harmon
+
+### Jeffery Harmon
+
 ![jeffery](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/3318a8ff-deba-4bdc-823c-f3ecfeaca4c4)
 
-##Team Picture
+## Team Picture
+
 ![team](https://github.com/Jcarth3w/CME-Quest-Adventures/assets/70415471/e18b556b-e0f0-46c8-8eb1-51d1a032c820)
 
-##Our Experience...
+## Our Experience...
 
 We made a mistake when registering for the student symposium. We only registered for the oral presentation.
 This causeed us to basically get kicked out of the exhibition showcase. After this, We prepped everything for the oral presentation
