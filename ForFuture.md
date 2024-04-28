@@ -22,6 +22,8 @@
 # Known Issues
 -  Strange bug in scenario 2 minigame
     - In the laptop game in scenario 2 the user must type an answer twice and we are not sure of the cause of this
+- Crossword minigame
+    - Progress does not save
 - Leaderboard
     - There are issues with the compatibility between itch.io and fire base and we could not resolve them in time
     - The leaderboard button has been removed from the game however it is extremely simple to add it back if desired
